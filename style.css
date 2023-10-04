@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.main{
+    height: 100vh;
+   
+    display: flex;
+    
+   
+
+    
+}
+.right1{
+    padding: 10px;
+    width: 50%;
+   background-color: black;
+
+     
+    
+}
+.heading{
+    color: #575A85;
+/* font-family: Montserrat; */
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 20px;
+}
+.detail{
+    width: 90%;
+    color: #B8BCCC;
+    /* font-family: Inter; */
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 10px;
+}
+.img{
+    margin-top: 100px;
+   
+    
+ margin-left: 100px;
+   
+   
+
+}
+.par{
+    color: #B8BCCC;
+    /* color: #B8BCCC;
+font-family: Inter; */
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.left2{
+    background-color: #575A85;
+   width: 50%;
+    
+   text-align: center;
+    
+}
+.btn{
+    color: #B8BCCC;
+/* font-family: Inter; */
+border: 2px solid white;
+border-radius: 5px;
+background-color: #575A85;
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+/* 
+second page */
+.second{
+    /* display: none; */
+}
+body{
+   background-color:black;
+}
+.address{
+    margin-left: 10px;
+    margin-top: 20px;
+    color: rgba(184, 188, 204, 0.50);
+/* font-family: Montserrat; */
+font-size: 34px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.loc-details{
+    margin-top: 20px;
+   
+    display: flex;
+    color: rgba(184, 188, 204, 0.50);
+  flex-wrap: wrap;
+font-size: 34px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.loc-details p{
+    margin-left: 10px;
+}
+.location1{
+    text-align: center;
+    width:100%;
+    height:964px;
+    background-color:#575A85 ;
+}
+
+.yourloc{
+    color: #B8BCCC;
+text-align: center;
+
+
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.loc-img{
+    width: 1390px;
+height: 677px;
+
+}
+.more{
+    color: #B8BCCC;
+text-align: center;
+/* font-family: Montserrat; */
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+.area{
+    margin-top: 20px;
+   
+   
+    color: rgba(184, 188, 204, 0.50);
+ 
+font-size: 34px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.more{
+    margin-top: 15px;
+}
+.search{
+    border: none;
+    background-color: black;
+    
+}
+.src-btn{
+   margin: auto;
+    width: 90vw;
+    background-color:black;
+    border:2px solid  #575A85 ;
+    border-radius:5px ;
+}
+.srcspace{
+    color: white;
+    
+    border: none;
+    width: 85vw;
+    background-color: black;
+}
+.detailsbox{
+    margin-left: 20px;
+ margin-top: 20px;
+    width: 600px;
+    height: 309px;
+    border-radius: 10px;
+background: #575A85;
+}
+.postoffice-details{
+    
+    display: flex;
+    flex-wrap: wrap;
+}
+.detailsbox p{
+    margin-top: 10px;
+   
+color: #B8BCCC;
+/* font-family: Montserrat; */
+font-size: 34px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
